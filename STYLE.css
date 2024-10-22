@@ -1,0 +1,49 @@
+
+img {
+    border-radius: 10px;
+    padding: 5px;
+    width: 300px;
+  }
+  h1 {
+    color:black;
+    font-size:larger;
+}
+p{
+    color: gray;
+}
+h2{
+    font-weight: bold;
+    color: green;
+    font-size: 15px ;
+    text-indent: 190px;
+}
+button {
+    background-color: rgb(206, 78, 61);
+    color: white;
+    padding: 15px ;
+    border-radius: 5px;
+    border: none;
+}
+button:hover {
+    background-color: darkred;
+    color: white;
+}
+
+
+/* button:hover {
+background-color: dark red;
+color: white;
+} */
+
+.info-card {
+background-color: light gray;
+padding: 20px;
+border: 2px solid whitesmoke;
+border-radius: 10px;
+width: 300px;
+text-align: center; 
+box-shadow: 5px 5px 5px whitesmoke; 
+} 
+.info-card:hover {
+box-shadow: 0 0 11px gray; 
+  }
